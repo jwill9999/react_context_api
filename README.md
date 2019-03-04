@@ -1,7 +1,7 @@
 # React Context API
 
 <div align="center">
-<img src="./public/images/context.png" width=100%/>
+<img src="./public/images/context.png" />
 </div>
 
 Here we show an example of using single or nested context objects. We also demonstartate the use of ContextTypes the and Consumer model.
